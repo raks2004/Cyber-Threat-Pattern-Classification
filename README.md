@@ -34,6 +34,7 @@ Multiple models were implemented, including Random Forest, LightGBM, and Voting 
 ## Dataset
 
 The dataset used in this project is a network traffic dataset consisting of features such as packet lengths, flow durations, and traffic volume. The dataset contains both benign and malicious traffic, with labels indicating the type of activity. It is preprocessed to handle missing values, categorical encoding, and feature scaling, followed by dimensionality reduction using PCA.
+Link to the dataset: [https://www.kaggle.com/datasets/dhoogla/cicidscollection?resource=downlo](https://www.kaggle.com/datasets/dhoogla/cicidscollection?resource=download)
 
 ## Model Selection
 

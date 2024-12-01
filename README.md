@@ -68,21 +68,17 @@ Cross-validation showed that the models performed consistently, though Random Fo
 
 ## Installation
 
-To run this project locally, ensure you have Python 3.6+ installed along with the required libraries. You can install the dependencies via `pip`:
-
-```bash
-pip install -r requirements.txt
-```
+To run this project locally, ensure you have Python 3.6+ installed along with the required libraries. You can install the dependencies via `pip`
 
 ## Usage
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/cyber-threat-pattern-classification.git
+   git clone https://github.com/raks2004/cyber-threat-pattern-classification.git
 
 2. Navigate to the project directory:   
    ```bash
-   git clone https://github.com/your-username/cyber-threat-pattern-classification.git
+   git clone https://github.com/raks2004/cyber-threat-pattern-classification.git
 
 3. Run the Jupyter Notebook:
    ```bash
